@@ -64,7 +64,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Developer - [Bunyamin Mercan](https://kamilmysliwiec.com)
+- Developer - [Bunyamin Mercan](https://www.linkedin.com/in/bunyaminmercan/)
 
 ## License
 
